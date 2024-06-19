@@ -1,0 +1,23 @@
+@font-face {
+	font-family: "bold";
+	font-display: swap;
+	src: url(bold.woff2) format("woff2");
+}
+
+@font-face {
+	font-family: "regular";
+	font-display: swap;
+	src: url(regular.woff2) format("woff2");
+}
+
+@font-face {
+	font-family: "light";
+	font-display: swap;
+	src: url(light.woff2) format("woff2");
+}
+
+@font-face {
+	font-family: "bungee";
+	font-display: swap;
+	src: url(bungee.woff2) format("woff2");
+}
