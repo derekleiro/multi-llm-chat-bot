@@ -2,6 +2,9 @@
 
 This project implements a flexible AI chatbot application supporting multiple language models (Claude, GPT-3.5, Gemini) with a Node.js backend and a vanilla JavaScript frontend.
 
+## Demo
+[demo](https://poodleai-136ccf80dabd.herokuapp.com/)
+
 ## Features
 
 - Real-time chat interface
@@ -26,9 +29,9 @@ This project implements a flexible AI chatbot application supporting multiple la
 
 3. Set up environment variables:
 Create a `.env` file in the root directory and add your API keys:
-```CLAUDE_API_KEY=your_claude_api_key```
-```OPENAI_API_KEY=your_openai_api_key```
-```GEMINI_API_KEY=your_gemini_api_key```
+- ```CLAUDE_API_KEY=your_claude_api_key```
+- ```OPENAI_API_KEY=your_openai_api_key```
+- ```GEMINI_API_KEY=your_gemini_api_key```
 
 ## Running the Application
 
