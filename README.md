@@ -1,6 +1,6 @@
 # Multi-Model AI Chatbot
 
-This project implements a flexible AI chatbot application supporting multiple language models (Claude, GPT-3.5, Gemini) with a Node.js backend and vanilla JavaScript frontend.
+This project implements a flexible AI chatbot application supporting multiple language models (Claude, GPT-3.5, Gemini) with a Node.js backend and a vanilla JavaScript frontend.
 
 ## Features
 
@@ -38,7 +38,7 @@ Create a `.env` file in the root directory and add your API keys:
 ## Running the Application
 
 1. Start the server:
-2. 2. Open a web browser and navigate to `http://localhost:3000`
+2. Open a web browser and navigate to `http://localhost:3000`
 
 ## Usage
 
