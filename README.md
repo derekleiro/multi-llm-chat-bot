@@ -24,10 +24,10 @@ This project implements a flexible AI chatbot application supporting multiple la
 ```git clone https://github.com/derekleiro/multi-llm-chat-bot.git```
 ```cd multi-llm-chat-bot```
 
-2. Install dependencies:
+3. Install dependencies:
 ```yarn install```
 
-3. Set up environment variables:
+4. Set up environment variables:
 Create a `.env` file in the root directory and add your API keys:
 - ```CLAUDE_API_KEY=your_claude_api_key```
 - ```OPENAI_API_KEY=your_openai_api_key```
