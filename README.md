@@ -21,8 +21,8 @@ This project implements a flexible AI chatbot application supporting multiple la
 ## Installation
 
 1. Clone the repository:
-```git clone https://github.com/yourusername/multi-model-ai-chatbot.git```
-```cd multi-model-ai-chatbot```
+```git clone https://github.com/derekleiro/multi-llm-chat-bot.git```
+```cd multi-llm-chat-bot```
 
 2. Install dependencies:
 ```yarn install```
